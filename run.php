@@ -8,7 +8,7 @@
 function trueidml($userid, $serverid){
 $curl = curl_init();
 curl_setopt_array($curl, array(
-  CURLOPT_URL => 'http://reztod.my.id/api/trueid_ml.php?userid='.$userid.'&zoneid='.$serverid.'',
+  CURLOPT_URL => 'http://razepedia.my.id/api/trueid_ml.php?userid='.$userid.'&zoneid='.$serverid.'',
   CURLOPT_RETURNTRANSFER => true,
   CURLOPT_ENCODING => '',
   CURLOPT_MAXREDIRS => 10,
