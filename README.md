@@ -1,5 +1,5 @@
 # trueid-mlbb
-SCRIPT GET IGN/NICKNAME ML BY ID, TRUE ID ML
+SCRIPT GET IGN/NICKNAME ML BY ID, TRUE ID MLBB
 <br>
 <br>
 Cara menggunakan ditermux :
